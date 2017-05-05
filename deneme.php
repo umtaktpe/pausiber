@@ -1,3 +1,4 @@
 <?php 
-echo "selam arkadaşlar ben git öğreniyorum";
+echo "ilk commit imizi attık arkadaşlar";
+echo "simdi yeni değişiklikleri eklemeyi öğreneceğiz";
 ?>
